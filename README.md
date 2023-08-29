@@ -55,7 +55,7 @@ Rebuilding the database using this file will result in the following tables: <br
 [<sub>Back to top</sub>](#top)
 
 ## Appointment Scheduler Script
-It can be accessed by inputting ./salon in the terminal.\
+It can be accessed by inputting ./salon.sh in the terminal.\
 The script will print in the terminal:
 > \~~~~~ MY SALON \~~~~~\
 > Welcome to My Salon, how can I help you?
